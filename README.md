@@ -4,7 +4,7 @@
 ### Glad to see you here! &nbsp;
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
 <p>
-I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:. I love to explore new technologies and leverage them to solve real-life problems :sparkles:.
+An enthusiastic Full-stack Developer, a lifelong learner, and have a problem-solving mindset. Know Javascript, HTML, CSS, Java, spring boot, Data Structure, and algorithm and have 1200+ hours of hands-on experience working on projects. :bulb: Looking forward to utilization current skillset and experience in the optimized growth of myself and the organization will work for :sparkles:.
 </p>
 <p align="left">
     <a href="https://www.linkedin.com/in/harit-khushwas-8019451b7/">
