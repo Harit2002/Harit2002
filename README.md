@@ -15,7 +15,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
     </a>
 </p>
 </p>
----
+
 ## :zap: Tech Stack
 ### :rocket: Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,5 +44,5 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </p>
 ## :top: Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harit2002&layout=compact&hide_border=true&theme=radical" />
----
+
 ### Show some :heart: by starring some of the repositories!
