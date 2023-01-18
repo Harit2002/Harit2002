@@ -44,6 +44,7 @@ An enthusiastic Full-stack Developer, a lifelong learner, and have a problem-sol
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harit2002&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harit2002&hide_border=true&theme=radical" />
 </p>
+
 ## :top: Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harit2002&layout=compact&hide_border=true&theme=radical" />
 
