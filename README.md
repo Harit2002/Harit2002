@@ -2,7 +2,7 @@
 <p width="60%" align="left">
     <h1>Hey :wave:, I'm <a href="https://github.com/Harit2002/Harit2002">Harit Khushwas!</a></h1>
 ### Glad to see you here! &nbsp;
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
+
 <p>
 An enthusiastic Full-stack Developer, a lifelong learner, and have a problem-solving mindset. Know Javascript, HTML, CSS, Java, spring boot, Data Structure, and algorithm and have 1200+ hours of hands-on experience working on projects. :bulb: Looking forward to utilization current skillset and experience in the optimized growth of myself and the organization will work for :sparkles:.
 </p>
@@ -29,9 +29,6 @@ An enthusiastic Full-stack Developer, a lifelong learner, and have a problem-sol
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ### :technologist::skin-tone-2: Tools & Platform
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
