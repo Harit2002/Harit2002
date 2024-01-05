@@ -47,7 +47,7 @@ An enthusiastic Full-stack Developer, a lifelong learner, and have a problem-sol
 
 ### :computer: Workspace
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## 📈 Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harit2002&show_icons=true&hide_border=true&theme=radical" />
