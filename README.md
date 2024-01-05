@@ -4,7 +4,11 @@
 
 ### Glad to see you here! &nbsp;
 <p>
-An enthusiastic Full-stack Developer, a lifelong learner, and have a problem-solving mindset. Know Javascript, HTML, CSS, Java, spring boot, Data Structure, and algorithm and have 1200+ hours of hands-on experience working on projects. :bulb: Looking forward to utilization current skillset and experience in the optimized growth of myself and the organization will work for :sparkles:.
+I possess a strong foundation in web development and software engineering, with expertise in HTML, CSS, JavaScript, React, Node.js, Mongoose, MySQL, Java, Spring Boot, and a solid understanding of Data Structures and Algorithms.
+
+ I'm passionate about creating efficient and elegant solutions to complex problems in the world of technology. I have applied my skills in various real-world projects, gaining practical experience and honing my problem-solving abilities :bulb:.
+
+ Let's connect and explore opportunities to collaborate  :sparkles:.
 </p>
 <p align="left">
     <a href="https://www.linkedin.com/in/harit-khushwas-8019451b7/">
